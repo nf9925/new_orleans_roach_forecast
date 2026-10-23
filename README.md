@@ -41,4 +41,5 @@ Weather data: Open-Meteo.com, historical weather archive (CC BY 4.0)
 Housing statistic: U.S. Census Bureau, American Housing Survey, 2015
 Full report
 
-A full PDF report with code, plots, and every modeling decision is coming soon.
+Read the full report now. [roach_report_full.pdf](https://github.com/user-attachments/files/33854981/roach_report_full.pdf)
+
